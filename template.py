@@ -24,6 +24,7 @@ list_of_files = [
    "setup.py",
    "setup.cfg",
    "pyproject.toml",
+   "Makefile"
    "tox.ini",
 ]
 
